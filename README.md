@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Chat with other players across characters and servers — no matter which alt you're on.
+  Chat with other players across characters and servers!.
 </p>
 
 ---
