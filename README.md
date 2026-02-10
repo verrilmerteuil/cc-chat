@@ -1,7 +1,7 @@
 # CCChat
 
 <p align="center">
-  <img src="Data/images/logo.png" alt="CCChat Logo" width="128" />
+  <img src="logo.png" alt="CCChat Logo" width="128" />
 </p>
 
 <p align="center">
@@ -70,3 +70,4 @@
 - Use `/ccchat` or `/cc` to open the chat window
 - Register an account or log in with your existing credentials
 - Add contacts and start chatting!
+
